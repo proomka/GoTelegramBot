@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/proomka/GoTelegramBot/issues"
   },
-  "homepage": "https://github.com/proomka/GoTelegramBot#readme"
+  "homepage": "https://github.com/proomka/GoTelegramBot#readme",
+  "dependencies": {
+    "telegraf": "^3.35.0"
+  }
 }
